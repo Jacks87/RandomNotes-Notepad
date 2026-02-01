@@ -1,0 +1,71 @@
+Trip Notes Editor – Features Overview
+
+Author: Jackelin Britton
+Course: C# GUI Development
+Project: Custom Notepad Application
+
+Current Features (Week 1 Implementation)
+
+This application is a custom C# Windows Forms text editor inspired by Notepad, designed with a more personalized and visually engaging user experience.
+
+Implemented features include:
+
+A fully functional text editor using a RichTextBox
+
+Ability to create a new document
+
+Ability to open existing .txt files
+
+Ability to save and save-as text files
+
+Single-file editing scope, similar to Windows Notepad
+
+Clean and intuitive menu system (File menu)
+
+Status bar for document context
+
+Travel-themed UI with background imagery
+
+Integrated calendar that allows the user to select a date and see a countdown
+
+Dynamic countdown messaging (future date, today, or past date)
+
+Background music player for a more relaxing writing experience
+
+Clear layout focused on usability and readability
+
+All code is fully commented line-by-line in my own words to explain functionality and logic.
+
+
+
+Planned Future Features
+
+Future versions of this application could include:
+
+Word count and character count display
+
+Auto-save reminders
+
+Dark mode / theme switcher
+
+Font style and size customization
+
+Text formatting options (bold, italic, underline)
+
+Multiple note tabs
+
+File history or recent files list
+
+Spell-check integration
+
+Export to PDF
+
+Cloud save support
+
+Travel notes organization by destination
+
+
+
+Project Goal
+
+The goal of this project was to build a functional Notepad-style application while improving overall Windows UX through thoughtful layout design, personalization, and creative features that go beyond the default Notepad experience.
